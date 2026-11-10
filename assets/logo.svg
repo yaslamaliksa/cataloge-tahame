@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">INGAZ TAHAME — إنجاز تهامة</title>
+  <g stroke-linejoin="round">
+    <path fill="#f67b49" d="M495 41 495 260 394 360 284 250Z"/>
+    <path fill="#eb6532" d="M284 250 394 360 184 568 76 459Z"/>
+    <path fill="#32a19e" d="M495 41 705 250 599 360 495 260Z"/>
+    <path fill="#5bb3ad" d="M495 260 599 360 495 461Z"/>
+    <path fill="#15343b" d="M705 250 915 459 807 568 599 360Z"/>
+    <path fill="#1d7275" d="M394 360 495 461 394 562 284 470Z"/>
+    <path fill="#5bb3ad" d="M284 470 394 562 284 671Z"/>
+    <path fill="#eb6532" d="M495 461 495 877 284 671Z"/>
+    <path fill="#1d7275" d="M599 360 705 470 599 568 495 461Z"/>
+    <path fill="#5bb3ad" d="M705 470 807 568 705 671Z"/>
+    <path fill="#15343b" d="M495 461 705 671 495 877Z"/>
+  </g>
+  <g fill="#15343b" font-family="Georgia, 'Times New Roman', serif" font-size="100" font-weight="700">
+    <text x="28" y="1003" textLength="402" lengthAdjust="spacingAndGlyphs">INGAZ</text>
+    <text x="540" y="1003" textLength="522" lengthAdjust="spacingAndGlyphs">TAHAME</text>
+  </g>
+  <circle cx="488" cy="970" r="37" fill="#eb6532"/>
+</svg>
